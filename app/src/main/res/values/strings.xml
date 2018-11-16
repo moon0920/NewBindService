@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewBindService</string>
+    <string name="textViewTitle">Music Player</string>
+    <string name="mBtnStop">STOP</string>
+    <string name="mBtnPlay">PLAY</string>
+    <string name="SecondActivity">Music Play2</string>
+    <string name="sBtnPlay">PLAY</string>
+    <string name="sBtnStop">STOP</string>
+</resources>
